@@ -45,26 +45,14 @@ Here is a random GIF as a placeholder.
 
 After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
 
-- [Loading and understanding the dataset]
-- [Cleaning the dataset]
-- [Performing EDA on the dataset]
-- [Finding co-realtion between different gases]
-- [Finding concentration of pollutants]
-- [Extracting features of air depending upon the level of CO concentration]
-- [Realtion between relative humidity/ absolute humidity and temerature and it's concentration.]
-- [Varition of temperature over two years.]
-
-- [Project Title](#project-title)
-- [Demo-Preview](#demo-preview)
-- [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-- [Footer](#footer)
+- Loading and understanding the dataset
+- Cleaning the dataset
+- Performing EDA on the dataset
+- Finding co-realtion between different gases
+- Finding concentration of pollutants
+- Extracting features of air depending upon the level of CO concentration
+- Realtion between relative humidity/ absolute humidity and temerature and it's concentration.
+- Varition of temperature over two years.
 
 **About the dataset**
 The dataset contains 9358 instances of hourly averaged responses from an array of 5 metal oxide chemical sensors embedded in an Air Quality Chemical Multisensor Device. The device was located on the field in a significantly polluted area, at road level,within an Italian city. Data were recorded from March 2004 to February 2005 (one year)representing the longest freely available recordings of on field deployed air quality chemical sensor devices responses. Ground Truth hourly averaged concentrations for CO, Non Metanic Hydrocarbons,Benzene, Total Nitrogen Oxides (NOx) and Nitrogen Dioxide (NO2) and were provided by a co-located reference certified analyzer.
