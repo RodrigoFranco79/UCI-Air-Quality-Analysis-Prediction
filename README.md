@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/header.png)
+![Banner](hhttps://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif)
 
 # UCI-Air-Quality-EDA
 
@@ -14,7 +14,7 @@
 <!-- Describe your project in brief -->
 
 # Project Description
-In this project , Rodriguo Franco and Gunnar David have done an in-depth analysis and visualization on the UCI air quality dataset (https://archive.ics.uci.edu/ml/datasets/air+quality) .The goal is to find the patterns and relationships in the dataset.
+In this project , Rodrigo Franco and Gunnar David have done an in-depth analysis and visualization on the UCI air quality dataset (https://archive.ics.uci.edu/ml/datasets/air+quality) .The goal is to find the patterns and relationships in the dataset.
 
 **In this notebook, you'll find:**
 - Intro to the dataset
