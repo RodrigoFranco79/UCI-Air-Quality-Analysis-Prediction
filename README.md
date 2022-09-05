@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](hhttps://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif)
+![Banner](https://github.com/RodrigoFranco79/UCI-Air-Quality-Analysis-Prediction/blob/main/header.gif)
 
 # UCI-Air-Quality-EDA
 
